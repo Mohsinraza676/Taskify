@@ -43,14 +43,14 @@ Taskify lets you create, prioritize, complete, and delete tasks — with everyth
 
 ## Screenshots
 
-(<img width="1080" height="2436" alt="1000127598" src="https://github.com/user-attachments/assets/b1e22d0d-59b3-47cb-8c94-44b8e1eef5be" />
-)
-(<img width="1080" height="2436" alt="1000127600" src="https://github.com/user-attachments/assets/f6651636-4814-4385-91a0-50f466c0fd58" />
-) 
-(<img width="1080" height="2436" alt="1000127601" src="https://github.com/user-attachments/assets/c5744074-0905-4c58-9528-5aff24858626" />
-) 
-(<img width="1080" height="2436" alt="1000127599" src="https://github.com/user-attachments/assets/ac338fc7-7efd-4261-97ce-f213518906e8" />
-) 
+<img width="1080" height="2436" alt="1000127598" src="https://github.com/user-attachments/assets/b1e22d0d-59b3-47cb-8c94-44b8e1eef5be" />
+
+<img width="1080" height="2436" alt="1000127600" src="https://github.com/user-attachments/assets/f6651636-4814-4385-91a0-50f466c0fd58" />
+ 
+<img width="1080" height="2436" alt="1000127601" src="https://github.com/user-attachments/assets/c5744074-0905-4c58-9528-5aff24858626" />
+ 
+<img width="1080" height="2436" alt="1000127599" src="https://github.com/user-attachments/assets/ac338fc7-7efd-4261-97ce-f213518906e8" />
+ 
 
 ---
 
